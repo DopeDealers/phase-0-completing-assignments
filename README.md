@@ -20,6 +20,8 @@ will need to complete work on your local machine. The general process is:
 - Download your personal copy (referred to as 'cloning') to your computer
 - Complete the required work
 - Submit your completed work to Canvas
++
+
 
 In this assignment, you'll learn the workflow that you will be using to complete
 your assignments. You can follow along with the steps in the videos below, or
